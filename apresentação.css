@@ -1,0 +1,82 @@
+.corpo{
+    margin-left: 20%;
+    position: absolute;
+    width: 1024px;
+    height: 1440px;
+    
+    
+    padding: 70px;
+    border-radius:0.2cm;
+    
+    font-family:Calibri, 'Trebuchet MS', sans-serif;
+    color:#2F3035;
+    
+    background-color:#809DD6
+
+}
+
+.titulo{
+    margin-left: 20%;
+    position: absolute;
+
+    text-align:center;
+    font-size: 25px;
+    padding: 7px;
+    border-radius:0.3cm;
+    
+    font-family:Calibri, 'Trebuchet MS', sans-serif;
+    color:#2F3035;
+}
+
+.texto{
+    font-size: 33px;
+    text-align:justify;
+    position:absolute;
+    top:280px;
+    width: 1000px;
+    padding: 3px;
+    font-family:'Trebuchet MS', sans-serif;
+    color: #2F3035;
+    
+   
+}
+
+.paragrafo1{
+    text-indent:2em 
+}
+.paragrafo2{
+    text-indent:2em 
+}
+.paragrafo3{
+    text-indent:2em 
+}
+.paragrafo4{
+    text-indent:2em 
+}
+.assinatura{
+    
+    text-align: end;
+}
+.botao2{
+    background-color: #5870ea83;
+    border-top-left-radius: 50%;
+   border-top-right-radius: 50%;
+   border-bottom-left-radius: 30%;
+   border-bottom-right-radius: 30%; 
+    width: 220px;  
+    
+
+}
+.voltar{
+    text-align:justify;
+    text-decoration: none;
+    
+    user-select:auto;
+    
+   
+    
+    
+    
+   color: #000310;
+}
+
