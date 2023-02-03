@@ -1,19 +1,18 @@
 body{
-    margin: 0%;
-    
-
+    margin: 0%;   
 }
+
 head{
     margin: 0%;
-
 }
+
 h2{
     font-size:28px;
 }
+
 h3{
     font-size: 15px;
 }
-
 
 .nome{
     margin-left: 20%;
@@ -23,42 +22,35 @@ h3{
     text-align:center;
     font-size: 25px;
     padding: 70px;
-    border-radius:0.3cm;
-    
+    border-radius:0.3cm;    
     font-family:Calibri, 'Trebuchet MS', sans-serif;
-    color:#2F3035;
-    
-    background-color:#809DD6
-    
+    color:#2F3035;    
+    background-color:#809DD6;    
 }
+
 .barra-esquerda{
     margin-left: 20%;
     position:absolute;
     top:280px;
     width: 270px;
-    height: 1190px;
+    height: 1300px;
     padding: 30px;
     font-family: Calibri, 'Trebuchet MS', sans-serif;
     color: #2F3035;
     background-color: #809DD6;
     border-radius:0.3cm;
-    
-
-    
 }
+
 .caixafoto{
     position: relative;
         
     text-align: center;
-    
-    
 }
+
 .foto{
     border-radius: 50%;
     box-shadow: 0px 0px 20px rgb(20, 21, 26);
-    
 }
-
 
 .barra-direita{
     margin-left: 20%;
@@ -66,55 +58,35 @@ h3{
     top: 280px;
     left: 346px;
     width: 618px;
-    height: 1190px;
+    height: 1300px;
     padding: 30px; 
     border-radius:0.3cm;
     font-family: Calibri, 'Trebuchet MS', sans-serif;
     color: #2F3035;
     background-color:#BACEF5
-    
-
 }
 
 .apresentaçao{
     
 }
-.paragrafo1{
-    text-indent:2em 
-}
-.paragrafo2{
-    text-indent:2em 
-}
-.paragrafo3{
-    text-indent:2em 
-}
-.paragrafo4{
-    text-indent:2em 
-}
+
 .botao{
     position:relative;
     margin-left: 35px;
-    
     text-align:center;
-     
-    
-     width: 200px;
-     
-     
-      
+    width: 200px;
 }
-.apresentaçao{
-   background-color:#5870ea83;
-   border-top-left-radius: 50%;
-   border-top-right-radius: 50%;
-   border-bottom-left-radius: 30%;
-   border-bottom-right-radius: 30%;
-   text-decoration: none;
-   
-   color: #000310;
 
-   user-select: none;
-     cursor: pointer;
+.apresentaçao{
+    background-color:#5870ea83;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+    text-decoration: none;
+    color: #000310;
+    user-select: none;
+    cursor: pointer;
 }
 
 .linkedin{
@@ -123,13 +95,10 @@ h3{
     border-top-right-radius: 50%;
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    
     text-decoration: none;
     color: #000310;     
-
     user-select: none;
-      cursor: pointer;
-      
+    cursor: pointer;      
 }
 
 .github{
@@ -138,13 +107,10 @@ h3{
     border-top-right-radius: 50%;
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    
     text-decoration: none;
     color: #000310;     
-
     user-select: none;
-      cursor: pointer;
-   
+    cursor: pointer;   
 }
 
 .instagram{
@@ -153,10 +119,12 @@ h3{
     border-top-right-radius: 50%;
     border-bottom-left-radius: 30%;
     border-bottom-right-radius: 30%;
-    
     text-decoration: none;
     color: #000310;     
-
     user-select: none;
-      cursor: pointer;
+    cursor: pointer;
+}
+
+.linhas{
+    line-height:2px;
 }
